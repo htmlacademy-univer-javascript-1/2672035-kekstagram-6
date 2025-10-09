@@ -32,4 +32,4 @@ function createRandomIdFromRangeGenerator (min, max) {
 
 const COUNT_COMMENTS = getRandomIntegergetRandomInteger();
 
-export {createRandomIdFromRangeGenerator, COUNT_OBJECTS, COUNT_COMMENTS};
+export {createRandomIdFromRangeGenerator, COUNT_OBJECTS, COUNT_COMMENTS, COMMENTS, NAMES};

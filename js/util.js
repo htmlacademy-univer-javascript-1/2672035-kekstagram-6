@@ -1,4 +1,4 @@
-import {createRandomIdFromRangeGenerator, COUNT_OBJECTS, COUNT_COMMENTS} from "./js/data.js"
+import {createRandomIdFromRangeGenerator, COUNT_OBJECTS, COUNT_COMMENTS, COMMENTS, NAMES} from "./js/data.js"
 
 const createComments = () => {
     const comment = [];
