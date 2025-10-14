@@ -28,8 +28,8 @@ function createRandomIdFromRangeGenerator (min, max) {
     previousValues.push(currentValue);
     return currentValue;
   };
-};
+}
 
-const COUNT_COMMENTS = getRandomIntegergetRandomInteger();
+const COUNT_COMMENTS = getRandomInteger();
 
 export {createRandomIdFromRangeGenerator, COUNT_OBJECTS, COUNT_COMMENTS, COMMENTS, NAMES};
